@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623163918432",
+    "firebase_url": "https://ml-kit-image-labelling-m-2ce29.firebaseio.com",
+    "project_id": "ml-kit-image-labelling-m-2ce29",
+    "storage_bucket": "ml-kit-image-labelling-m-2ce29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623163918432:android:eec4f765d99c29eb611b05",
+        "android_client_info": {
+          "package_name": "com.jessicathornsby.mlkitimagelabelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623163918432-pu81la6e2tph3mpr48h130nvmr79cied.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jessicathornsby.mlkitimagelabelling",
+            "certificate_hash": "decf1f464dd23350866b0419053efbe29a5aaaad"
+          }
+        },
+        {
+          "client_id": "623163918432-4hcs8kgenngmmqq0qga979r5gg7nu3s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ9svFgLdHhrhitlQeewssnKfzC-jESso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623163918432-4hcs8kgenngmmqq0qga979r5gg7nu3s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
